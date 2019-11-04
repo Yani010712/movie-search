@@ -9,3 +9,5 @@ const Header = (props) => {
 };
 
 export default Header;
+
+// functional component that renders the header tag with the text props.
